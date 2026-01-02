@@ -1,0 +1,3 @@
+- [ ] Update .container grid layout to 1fr 3fr, center it, remove left margin
+- [ ] Remove margin-right from .profile
+- [ ] Update .cards to span columns and use responsive grid
