@@ -27,11 +27,14 @@ body {
   background: hsl(235, 46%, 20%);
   border-radius: 15px;
   overflow: hidden;
+
 }
 
 .profile-header {
   background: hsl(246, 80%, 60%);
   padding: 3rem;
+    border-bottom-left-radius: 10px;
+  border-bottom-right-radius: 10px;
 }
 
 .profile-header img {
@@ -39,6 +42,8 @@ body {
   border: 3px solid white;
   border-radius: 50%;
   margin-bottom: 1.5rem;
+  object-position: center;
+  /* object-fit: contain; */
 }
 
 .profile-header h1 {
